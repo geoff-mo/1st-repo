@@ -1,6 +1,6 @@
 # Race-mapper
 
-The purpose of this project is to map any type of sporting races worldwide.
+The purpose of this project is to map any type of sporting events worldwide.
 
 OSM will be the map used for this project.
 
